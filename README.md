@@ -20,7 +20,7 @@
 - [ ] euler017
 - [X] euler018
 - [ ] euler019
-- [ ] euler020
+- [X] euler020
 - [ ] euler021
 - [ ] euler022
 - [ ] euler023

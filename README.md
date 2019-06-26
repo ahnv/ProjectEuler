@@ -21,7 +21,7 @@
 - [X] euler018
 - [ ] euler019
 - [X] euler020
-- [ ] euler021
+- [X] euler021
 - [ ] euler022
 - [ ] euler023
 - [ ] euler024

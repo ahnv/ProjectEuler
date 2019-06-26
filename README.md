@@ -6,7 +6,7 @@
 - [X] euler003
 - [X] euler004
 - [X] euler005
-- [ ] euler006
+- [X] euler006
 - [ ] euler007
 - [ ] euler008
 - [ ] euler009
